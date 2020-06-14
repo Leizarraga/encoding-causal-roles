@@ -1,6 +1,0 @@
-	CAUS	INS	GEN	BENBiscayan	120	11	0	0
-Guipuscoan	29	2	7	0
-High_Navarrese	43	14	106	0
-Labourdin	86	43	22	2
-Low_Navarrese	23	14	12	0
-Souletin	98	20	5	2
