@@ -1,0 +1,1 @@
+﻿	Biscayan	Guipuscoan	High_Navarrese	Low_Navarrese	Labourdin	SouletinBEN	0	0	0	0	2	2CAUS	120	29	43	23	86	98GEN	0	7	106	12	22	5INS	11	2	14	14	43	20
