@@ -1,0 +1,5 @@
+	Cause	Motive	Force
+BEN	2	23	0
+CAUS	160	314	6
+GEN	13	2	0
+INS	93	18	32
