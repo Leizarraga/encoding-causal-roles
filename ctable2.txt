@@ -1,0 +1,1 @@
+	Bisc	Guip	High Nav	Low Nav	Lab	SoulCAUS	25	19	23	14	27	22INS	11	2	19	19	43	16GEN	0	2	0	0	7	2BEN	0	0	0	0	2	0
